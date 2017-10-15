@@ -1,10 +1,16 @@
 <resources>
     <string name="app_name">RecyclerViewDemo</string>
 
+    <string name="base_usage">基本用法</string>
     <string-array name="main_menu">
         <item>基本用法</item>
         <item>LayoutManager实现多种布局</item>
         <item>ItemDecor调整Item间距</item>
         <item>ItemAnimator实现Item动画</item>
     </string-array>
+    
+    <string name="linear_layout_vertical">LinearLayout(Vertical)</string>
+    <string name="linear_layout_horizontal">LinearLayout(Horizontal)</string>
+    <string name="grid_layout">GridLayout</string>
+    <string name="staggered_grid_layout">StaggeredGridLayout</string>
 </resources>

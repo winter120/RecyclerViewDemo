@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_linear_layout_vertical"
+        android:icon="@drawable/ic_linear_layout_vertical"
+        android:title="@string/linear_layout_vertical" />
+
+    <item
+        android:id="@+id/menu_linear_layout_horizontal"
+        android:icon="@drawable/ic_linear_layout_horizontal"
+        android:title="@string/linear_layout_horizontal" />
+
+    <item
+        android:id="@+id/menu_grid_layout"
+        android:icon="@drawable/ic_grid_layout"
+        android:title="@string/grid_layout" />
+
+    <item
+        android:id="@+id/menu_staggered_layout"
+        android:icon="@drawable/ic_grid_layout"
+        android:title="@string/staggered_grid_layout" />
+</menu>
